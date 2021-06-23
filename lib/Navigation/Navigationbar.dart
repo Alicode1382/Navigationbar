@@ -8,7 +8,6 @@ class Myhomepage extends StatefulWidget {
   _MyhomepageState createState() => _MyhomepageState();
 }
 
-//Navigation bar
 class _MyhomepageState extends State<Myhomepage> {
   @override
   Widget build(BuildContext context) {

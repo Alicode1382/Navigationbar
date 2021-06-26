@@ -36,7 +36,7 @@ class _MyhomepageState extends State<Myhomepage> {
       ),
       bottomNavigationBar: new CurvedNavigationBar(
           color: Colors.white,
-          backgroundColor: Colors.deepOrange,
+          backgroundColor: Colors.green,
           buttonBackgroundColor: Colors.white,
           height: 50,
           animationDuration: new Duration(milliseconds: 200),
